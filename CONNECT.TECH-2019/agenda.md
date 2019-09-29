@@ -12,7 +12,7 @@ Schedule can be found [here](http://connect.tech/schedule).
 
 10:00 - Morning Break
 
-10:20 - [JavaScript Objects (Hunter Loftis)](http://connect.tech/session?id=4057)
+10:20 - [Vue.js for Regular People (Raymond Camden)](http://connect.tech/session/?id=4244) **OR** [JavaScript Objects (Hunter Loftis)](http://connect.tech/session?id=4057)
 
 11:20 - [Practical Unit Testing for Existing Codebases (K. Devin McIntyre)](http://connect.tech/session?id=4109)
 
