@@ -40,3 +40,8 @@
 - Re-usable objects
 - Template + Logic + Style = Component
 
+### Routing
+- Not a part of Vue
+- There is an official library (router.vuejs.org)
+- Maps URL paths to components
+- Supports dynamic paths
