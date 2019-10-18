@@ -23,6 +23,6 @@ We have made things so complex, how do we know what is really simple?
 
 > The goal is not to distract the customer
 
-Example: You go to yahoo and it is filled with adds, bing has less adds but still has pictures and distractions, google has no adds or distractions at all. 
+Example: You go to yahoo and it is filled with ads, bing has less adds but still has pictures and distractions, google has no adds or distractions at all. 
 
 > Simple makes things easy, but its not easy to make things simple.
